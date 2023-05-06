@@ -28,7 +28,7 @@ const uttamShrestha = {
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAol6ee04wbzdltVJBsnm_1TGwpQYidVFwvw&usqp=CAU" alt = "django" width = "60" height = "60"></a>
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>
-<a href="https://www.getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-icon.svg" alt="bootstrap" width="60" height="60"/></a>
+<a href="https://www.getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="60" height="60"/></a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="55" height="60"/> </a>
 </p>
 </br> 
