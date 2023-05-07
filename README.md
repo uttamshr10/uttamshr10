@@ -33,10 +33,6 @@ const uttamShrestha = {
 </p>
 </br> 
 
-## My GitHub Statistics 📈
-
-[![Uttam's GitHub stats](https://github-readme-stats.vercel.app/api?username=uttamshr10&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttamshr10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/uttamshr10/github-readme-status)
 
 ## Connect with me
