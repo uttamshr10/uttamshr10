@@ -2,14 +2,14 @@
 
 <h2 align="center">About Me 😉</h2>
 
-```js
-const uttamShrestha = {
-  currentStatus: "Learning Django",
-  lookingForOppurtunitiesIn: "Backend with Django",
-  languages: [JavaScript, HTML, CSS, Python],
-  frameworks: [Django, Bootstrap5],
-  qualification: "BCA running",
-  hobbies: ["Reading Books", "Football", "Building Web Applications"]
+```py
+uttamShrestha = {
+    "currentStatus": "Learning Django",
+    "lookingForOpportunitiesIn": "Backend with Django",
+    "languages": ["Python", "HTML", "CSS", "JavaScript"],
+    "frameworks": ["Django", "Bootstrap5"],
+    "qualification": "BCA running",
+    "hobbies": ["Reading Books", "Football", "Building Web Applications"]
 }
 ```
 <br>
