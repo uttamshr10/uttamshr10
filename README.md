@@ -4,7 +4,7 @@
 
 ```py
 uttamShrestha = {
-    "currentStatus": "Learning Django",
+    "currentStatus": "Bachelor 3rd Semester Running",
     "lookingForOpportunitiesIn": "Backend with Django",
     "languages": ["Python", "HTML", "CSS", "JavaScript"],
     "frameworks": ["Django", "Bootstrap5"],
