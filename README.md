@@ -4,10 +4,10 @@
 
 ```py
 uttamShrestha = {
-    "currentStatus": "Bachelor 3rd Semester Running",
-    "lookingForOpportunitiesIn": "Backend with Django",
+    "currentStatus": "Bachelor 4th Semester Running",
     "languages": ["Python", "HTML", "CSS", "JavaScript"],
     "frameworks": ["Django", "Bootstrap5"],
+    "ecommerce website": ["Shopify"],
     "qualification": "BCA running",
     "hobbies": ["Reading Books", "Football", "Building Web Applications"]
 }
