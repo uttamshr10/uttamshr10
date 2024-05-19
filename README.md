@@ -7,7 +7,7 @@ uttamShrestha = {
     "currentStatus": "Looking for Django Internship",
     "languages": ["Python", "HTML", "CSS", "JavaScript"],
     "frameworks": ["Django", "Bootstrap5"],
-    "ecommerce website": "Shopify",
+    "ecommerceWebsite": "Shopify",
     "qualification": "BCA running",
     "hobbies": ["Reading Books", "Football", "Building Web Applications"]
 }
