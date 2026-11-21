@@ -1,43 +1,37 @@
-# <h1>Hey there 👋, I’m<i> Uttam Shrestha</i></h1>
+# Hey there, I'm Uttam Shrestha 👋
 
-<h2 align="center">About Me 😉</h2>
+**Software Development Lead | Full-Stack Engineer | Exploring AI Engineering**
 
-```py
-uttamShrestha = {
-    "languages": ["Python", "HTML", "CSS", "JavaScript", "React", "AWS"],
-    "frameworks": ["Django", "Bootstrap5"],
-    "ecommerceWebsite": "Shopify",
-    "hobbies": ["Reading Books", "Football", "Building Web Applications"]
-}
-```
-<br>
+I'm a software engineer based in Nepal, currently leading the development of an internal web platform at Karkhana.
 
-# Technologies
+I focus on building full-stack applications, designing backend systems, structuring data, and deploying software to the cloud. I'm particularly interested in **software architecture, AI engineering, and building AI-powered products that solve real-world problems**.
 
-<p align="left">
+## 🛠️ Tech Stack
 
-<a href="https://www.w3schools.com/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
-<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/></a>
-<a href = "https://www.djangoproject.com/"  target="_blank">
-<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAol6ee04wbzdltVJBsnm_1TGwpQYidVFwvw&usqp=CAU" alt = "django" width = "60" height = "60"></a>
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>
-<a href="https://www.getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="60" height="60"/></a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="55" height="60"/> </a>
-</p>
-</br> 
+**Languages:** Python, TypeScript, JavaScript, SQL  
+**Frontend:** React, Vite, Tailwind CSS, HTML, CSS  
+**Backend:** Django, Django REST Framework, FastAPI  
+**Databases:** PostgreSQL, MySQL  
+**Cloud & Tools:** AWS (EC2, Lightsail), Docker, Nginx, Gunicorn, Git, GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttamshr10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/uttamshr10/github-readme-status)
+## 🚀 What I'm Working On
 
-## Connect with me
+- Leading the development of an internal platform connecting sales, production, inventory, and dispatch workflows at Karkhana.
+- Exploring AI engineering, LLM applications, and practical uses of existing AI models.
+- Deepening my understanding of system design, scalable software architecture, and cloud infrastructure.
 
-<a href="mailto:utam.shrestha65@gmail.com">
-<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" height="48" width="120">
-</a>
-<a href = "https://www.linkedin.com/in/uttam-shrestha-b96032224/" target="_blank">
-<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" height = "60" width="180">
-</a>
+## 💻 Selected Projects
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [UttamOS](https://www.uttam-shrestha.com.np/) | An interactive, Ubuntu-inspired developer portfolio with desktop applications and a terminal. | React, TypeScript, Vite |
+| [Pause](https://github.com/uttamshr10/Pause) | A burnout intelligence platform combining wellness monitoring, machine learning, and AI-assisted insights. | React, Django, Python, PostgreSQL |
+| SmartFin | A personal finance application exploring budgeting, stock data, and machine learning. | React, Node.js, MongoDB, Python |
+
+## 📚 Beyond Coding
+
+I enjoy reading about artificial intelligence, technology, philosophy, and entrepreneurship. Outside of software, I enjoy playing football and exploring new ideas.
+
+## 🔗 Connect With Me
+
+[**Portfolio**](https://www.uttam-shrestha.com.np/) · [**LinkedIn**](https://www.linkedin.com/in/uttamshr/) · [**GitHub**](https://github.com/uttamshr10)
